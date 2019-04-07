@@ -19,7 +19,7 @@ Eg.
 python disk-run.py  /tmp
 ```
 Output: 
-```json
+```
 {     "files":     [       {"/tmp/foo", 1000},       {"/tmp/bar", 1000000},       {"/tmp/buzzz", 42},     ], } 
 ```
 
